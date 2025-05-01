@@ -341,4 +341,3 @@ Year,Month,Day,Time of Tweet,text,sentiment,Platform (la premiere lignes (es var
 2018,8,18,noon,"I feel sorry, I miss you here in the sea beach",positive, Facebook
 2017,8,18,night,Don't angry me,negative,Facebook
 
-a titre de rappel une portion de mon anaylyse exploratoire :
